@@ -1,18 +1,18 @@
 module.exports = {
   pathPrefix: '/running', // Change to `/running_page` when running on github pages
   siteMetadata: {
-    siteTitle: 'Leibniz\'s Workouts Map',
-    siteUrl: 'https://leibnizhu.github.io/running',
+    siteTitle: 'Ricky's Workouts Map',
+    siteUrl: 'https://sepotin.github.io/workout',
     logo: 'https://avatars.githubusercontent.com/u/13050963?s=96&v=4',
     description: 'Personal site and blog',
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://leibnizhu.github.io/',
+        url: 'https://sepotin.github.io/',
       },
       {
         name: 'Github',
-        url: 'https://www.github.com/leibnizhu',
+        url: 'https://sepotin.github.io',
       }
     ],
   },
