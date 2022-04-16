@@ -1,6 +1,6 @@
 // const
 const MAPBOX_TOKEN =
-    'pk.eyJ1IjoiZGF5YnJlYWtzbiIsImEiOiJjbDF3ZGJqdGcwMWRvM2ptc3o3c2d4dmFlIn0.tAWCz6VVdaOnr2k4xVIL6w';
+    'pk.eyJ1IjoiZGF5YnJlYWtzbiIsImEiOiJjbDIyOGNrZ2EwYWZqM2ptYmU5Njk3bzU4In0.SB7BOeO_9DPL7ZFWfAMMYg';
 const MUNICIPALITY_CITIES_ARR = [
   '北京市',
   '上海市',
@@ -18,7 +18,7 @@ const LINE_OPACITY = 0.4;
 const MAP_HEIGHT = 600;
 
 // IF you outside China please make sure IS_CHINESE = false
-const IS_CHINESE = false;
+const IS_CHINESE = yes;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength, year) =>
   `户外运动 ${yearLength} 年 ` + ( year === 'Total' ? '' : `，地图展示的是 ${year} 年的轨迹`);
