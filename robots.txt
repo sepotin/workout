@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://sepotin.github.io/running/sitemap/sitemap-index.xml
-Host: https://sepotin.github.io
+Sitemap: https://w.091.one/running/sitemap/sitemap-index.xml
+Host: https://w.091.one
