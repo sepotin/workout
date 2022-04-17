@@ -18,7 +18,7 @@ const LINE_OPACITY = 0.4;
 const MAP_HEIGHT = 600;
 
 // IF you outside China please make sure IS_CHINESE = false
-const IS_CHINESE = false;
+const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength, year) =>
   `户外运动 ${yearLength} 年 ` + ( year === 'Total' ? '' : `，地图展示的是 ${year} 年的轨迹`);
