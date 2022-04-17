@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://leibnizhu.github.io/running/sitemap/sitemap-index.xml
-Host: https://leibnizhu.github.io
+Sitemap: https://sepotin.github.io/running/sitemap/sitemap-index.xml
+Host: https://sepotin.github.io
