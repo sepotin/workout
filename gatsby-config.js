@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Ricky\'s Workouts Map',
     siteUrl: 'https://w.091.one',
-    logo: 'https://avatars.githubusercontent.com/u/13050963?s=96&v=4',
+    logo: 'https://s1.ax1x.com/2022/04/12/LmTmAP.png',
     description: 'Personal site and blog',
     navLinks: [
       {
