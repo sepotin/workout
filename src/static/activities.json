@@ -3208,5 +3208,20 @@
 "average_speed": 0.796,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 7076129807,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 1003.5,
+"moving_time": "0:08:19",
+"type": "Run",
+"start_date": "2022-05-02 14:35:32+00:00",
+"start_date_local": "2022-05-02 22:35:32",
+"location_country": null,
+"summary_polyline": null,
+"average_heartrate": null,
+"average_speed": 2.011,
+"source": "strava",
+"streak": 1
 }
 ]
