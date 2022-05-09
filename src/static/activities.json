@@ -3238,5 +3238,35 @@
 "average_speed": 2.311,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 7109058372,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 1012.6,
+"moving_time": "0:07:48",
+"type": "Run",
+"start_date": "2022-05-05 15:13:49+00:00",
+"start_date_local": "2022-05-05 23:13:49",
+"location_country": null,
+"summary_polyline": null,
+"average_heartrate": null,
+"average_speed": 2.164,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 7109158702,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 1533.6,
+"moving_time": "0:14:59",
+"type": "Run",
+"start_date": "2022-05-08 15:13:39+00:00",
+"start_date_local": "2022-05-08 23:13:39",
+"location_country": null,
+"summary_polyline": null,
+"average_heartrate": null,
+"average_speed": 1.706,
+"source": "strava",
+"streak": 1
 }
 ]
