@@ -3328,5 +3328,20 @@
 "average_speed": 1.906,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 7224583180,
+"name": "\u5348\u540e\u884c\u8d70",
+"distance": 4714.0,
+"moving_time": "1:04:52",
+"type": "Hike",
+"start_date": "2022-05-29 08:12:53+00:00",
+"start_date_local": "2022-05-29 16:12:53",
+"location_country": "\u53e4\u5317\u8def, \u5468\u5bb6\u6865\u8857\u9053, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200062, \u4e2d\u56fd",
+"summary_polyline": "wnp}Dil~cVAKDUd@[`@}@@QEEEW^eBCGA]DIGg@GMg@YIQFw@Ac@HcAE_@L}AJQ?WBInAEjAB`@A\\LHAJMVSb@?n@[ZMPAPIl@YxA_@TW`Bm@XUh@OZSTI^E^M^QBG@@DCL?rA[vAKZF`@Db@An@LLF^H\\?fAb@JFXJ\\?ZBNHPf@AB?SMHIf@?HPb@@VIJMFQVQlAATCf@L~@ETCr@_@h@CHEt@U`@?h@\\|@C\\WfA[^a@TCL@JI@KCBJCF@VMd@C^M^CT?DT`@?HUb@OzAAfAOf@Kr@AJHt@ARKVC@ARGd@CF@?KABCD?PSJAFDBRIVMPADBf@HDFNB`@CNDR?\\BFQ|@AZcAZEGC?CCFDPBA@PDB??E@@E@JH?G@BH?o@_@IBICADFBAA@?NJCBBH",
+"average_heartrate": null,
+"average_speed": 1.211,
+"source": "strava",
+"streak": 1
 }
 ]
