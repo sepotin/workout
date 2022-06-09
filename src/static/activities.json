@@ -3493,5 +3493,50 @@
 "average_speed": 5.617,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 7274351148,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 6723.0,
+"moving_time": "0:20:16",
+"type": "Ride",
+"start_date": "2022-06-08 10:10:02+00:00",
+"start_date_local": "2022-06-08 18:10:02",
+"location_country": "IBP\u56fd\u9645\u5546\u52a1\u82b1\u56ed-\u897f\u533a, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "unr}DcnscVj@Gx@EjAQByAK{A?aAD}@p@yE@y@N{ANeBZ{BAc@F{CBe@Ao@KgEUwBAoCE_CBqAHc@HUrAaCFGRKRCP?\\LzBj@bA?VC^WPMLULk@B_@@iBG{BAsEFmAR{BD]`@}A`BwFJg@HcANs@Ts@hAwADI`AyC~AqFJYx@{Ad@g@\\YbAw@zAw@\\WPUbAgB^cAJk@Bo@C_@G}@ScBA{@o@kIAkAGs@Bm@a@Q?KBq@HaA`@cA^wAJ{@b@gCTiC?}@WwASyBGcA?eADqADq@NoAnBqLLMPCV@vATdA^fATVCl@H`BJlAVRCZBPFR@TG|HpAvAJhBJl@L|@JrAHpCVl@BHANINSHW?QRoL`@yLPeDF_BLgBEsABmAKu@MiC@Mf@uBZuB",
+"average_heartrate": null,
+"average_speed": 5.529,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 7278116764,
+"name": "\u6668\u95f4\u9a91\u884c",
+"distance": 6637.8,
+"moving_time": "0:20:30",
+"type": "Ride",
+"start_date": "2022-06-09 00:22:25+00:00",
+"start_date_local": "2022-06-09 08:22:25",
+"location_country": "\u4e0a\u6d77\u5bf9\u5916\u7ecf\u8d38\u5927\u5b66, \u53e4\u5317\u8def, \u4ed9\u971e\u65b0\u6751\u8857\u9053, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200336, \u4e2d\u56fd",
+"summary_polyline": "igo}Duc|cVaCQqBD_BOi@CsA@qASk@[UAUD{BA{@KgAWsAEm@@u@Fm@b@}@x@e@CuAaAmAQy@BWDSREJEf@?nABnIRxKDfAF~GC`CExAMbCWxBq@jEYxAqBnMQrBEdBFlBFv@BbBKhC?jADd@ElAq@xFM|CE|BSdAN|@JRF\\JtA?TFTDl@Jp@Fr@L~AB`AIlA]p@_ChAgAp@kA|@oAjA{@hAa@v@Qd@oBfI[dAm@xCEj@Ot@a@pAeCnJ[zBI`CHrUEtET|FEXS`@GDW@g@Hq@ZwC`Ae@b@_@PY?g@LADHpABjAAzA[h@?d@OfCEzAw@zEM|AAdAHjBAlAKROJSDaBB",
+"average_heartrate": null,
+"average_speed": 5.397,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 7279466871,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 6372.9,
+"moving_time": "0:19:19",
+"type": "Ride",
+"start_date": "2022-06-09 09:51:45+00:00",
+"start_date_local": "2022-06-09 17:51:45",
+"location_country": "Lefit, \u4e34\u8679\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "amr}DulscVPDf@CHGFEp@cBEq@Ag@BqDRiBF]?UN}BFoAHy@`@aCHsABiAJ{A?{Bk@wP?s@Fe@Na@`AgBPWVOj@?t@LlBj@jANPARKNQV_@H]D[?}AGaCE}GFyAH}@Z{ArAiEn@eCNoAb@_BlAqAp@gCjBaGj@wAx@kA|@w@|@o@dAk@x@y@fAoC`@wA@qAC{AMaA@SEc@Im@Oi@OqACaDI}AAmDLqAH{ANeBBiAXaBD}AQcFEgB?w@DwARkBrBoLJ[VI~AHfB\\hAX~@@fBb@lAJrA\\lAFdAT|@L`CRfBJv@L`@@x@JRAP@dBNbBTv@D\\QNWDWBoCN_CN_EPmDFeB\\yGPgBL_EFg@AwAE_AVuD",
+"average_heartrate": null,
+"average_speed": 5.499,
+"source": "strava",
+"streak": 5
 }
 ]
