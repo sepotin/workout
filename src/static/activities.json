@@ -3763,5 +3763,20 @@
 "average_speed": 5.425,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 7356142233,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 7943.9,
+"moving_time": "0:22:49",
+"type": "Ride",
+"start_date": "2022-06-23 09:50:39+00:00",
+"start_date_local": "2022-06-23 17:50:39",
+"location_country": "IBP\u56fd\u9645\u5546\u52a1\u82b1\u56ed-\u897f\u533a, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "kwr}DuktcVzBe@^MrBe@x@Y`Dw@n@W^e@FW@[EwBOwCI]?iASoDC_A@c@^{@j@cA^w@TQf@Dv@Pn@H`ARd@?~@O\\OTUHQFc@?{@AwAMyDAwBFiBT{Bf@qBpAgE`@qBJ_ANk@\\aA|@cALWjDgL~@_B`A{@|A}@vAaAr@eA\\w@T{@JgBCuAGiAGa@?m@MqAKiBSwE@yBCsAXcCXmBReBFeFF]KeA]_CGkAPkD`AeHXmBn@eCn@gD\\iCb@oHDoA@cCEgC?iBEsA?mCGaEEyAEc@@yBEcCUgE@y@L}A\\yA`@cCLYLMXOtBe@pAk@jAWxBw@~@SnAe@nFs@z@GlDa@nAWL?PIRMPOLO\\o@Nq@LoBD{ALwBB}BHwAd@kDh@mGf@uEPm@Fm@DE?CJKAEBB{@@CFWhBUtCq@fG",
+"average_heartrate": null,
+"average_speed": 5.803,
+"source": "strava",
+"streak": 3
 }
 ]
