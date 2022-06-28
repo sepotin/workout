@@ -3793,5 +3793,35 @@
 "average_speed": 5.081,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 7375779352,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 6527.1,
+"moving_time": "0:22:12",
+"type": "Ride",
+"start_date": "2022-06-27 09:54:53+00:00",
+"start_date_local": "2022-06-27 17:54:53",
+"location_country": "Lefit, \u4e34\u8679\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "ukr}DyoscVt@ILKFO?i@Gy@McBWuBPq@NW^cAJsA@Y?e@G_Ab@mBLaABc@SmBF_@t@m@@_@EmA?s@KiB@gACuDI}@AyABc@Lk@b@}@d@qANYNIPA\\FlBd@|AXb@KXMf@m@J]BW?wBKsAAk@@qBDcCLmBPoAJc@h@iBtAgFV{BPo@Rk@n@q@d@{@zB{GViALc@`@w@n@}@PO`Au@tBwAl@}@jAgCVwB?e@K_BOy@ScBE_A?sBQiEGg@I][o@BKPg@Hq@VyA\\cAP_ADcDD_@ZaBGoAM}AOcAOkBBsADYfCqNJy@VUN@jBf@pALlDf@tAHlBVvAHhC^fAHv@PjBNbCJ^@TAv@NfF`@d@mA?kBVeH@aARkBLaFRgBLaEEg@RkAA_@BeAFYN]CUKa@Eq@Ki@KSCYb@sBL_AD_AJg@",
+"average_heartrate": null,
+"average_speed": 4.9,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 7379418410,
+"name": "\u6668\u95f4\u9a91\u884c",
+"distance": 5747.5,
+"moving_time": "0:19:56",
+"type": "Ride",
+"start_date": "2022-06-28 00:30:05+00:00",
+"start_date_local": "2022-06-28 08:30:05",
+"location_country": "\u8fde\u5bb6, 365, \u8299\u84c9\u6c5f\u8def, \u5468\u5bb6\u6865\u8857\u9053, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200062, \u4e2d\u56fd",
+"summary_polyline": "srp}Dcf|cVYEa@?ODOPG`@@tAAnBDdC?fDFnCArAH`BH|G@xBGdBIdBKpAi@jEUzAYpAi@~DqApHQxAGbB?dBTbDFhBEpA@hAMbAeA`D]`AMhAn@vAFl@OjDN|@Cp@j@hEBhAJt@PnBAn@IbACLg@lAi@Hg@NkAn@qAz@kAbAy@~@w@pAe@rAoC|JOz@Yz@i@dCg@bBuBhIS~AGvA?fBFjCClGGTMLQ@a@E_AQsCa@e@PINAJUd@m@dAa@fAWfAAb@^xFB^CRDRB`AThCDx@E`CIjCG`@DHFXCdAi@|CKdAu@bGE~ACzEKTQLUBm@@",
+"average_heartrate": null,
+"average_speed": 4.806,
+"source": "strava",
+"streak": 2
 }
 ]
