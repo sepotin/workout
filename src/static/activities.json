@@ -4063,5 +4063,35 @@
 "average_speed": 5.648,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 7443095641,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 5485.6,
+"moving_time": "0:18:53",
+"type": "Ride",
+"start_date": "2022-07-09 09:23:35+00:00",
+"start_date_local": "2022-07-09 17:23:35",
+"location_country": "239, \u53e4\u5317\u8def, \u5929\u5c71\u8def\u8857\u9053, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200336, \u4e2d\u56fd",
+"summary_polyline": "}mp}Dmx|cVw@X[Di@PqAj@eCv@cIpCgCp@g@HO`@k@P_Ch@}AJ}@LyABuBGkCAmCBcECaC@_EGqBBcDO{@@{AJyABuC?c@Pc@XKTIp@Ax@B^G~@@nAGbADlBJxAJ`CFf@XdBZ`@E`BEn@CxAPfG?tCM~DU~BGzAYpEMlAMh@@d@KvAElAQfAQvBi@vDKzBa@|F[nCG~Ck@tCWbBUdAc@rAShAkAzDcApCIJMJK@[QqBuBaA{@uC_CaDqCuB{AiB_B",
+"average_heartrate": null,
+"average_speed": 4.842,
+"source": "strava",
+"streak": 7
+},
+{
+"run_id": 7443096145,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 3605.3,
+"moving_time": "0:14:39",
+"type": "Ride",
+"start_date": "2022-07-09 10:57:36+00:00",
+"start_date_local": "2022-07-09 18:57:36",
+"location_country": "\u771f\u5317\u8def 1101 \u5f04, \u957f\u5f81\u9547, \u666e\u9640\u533a, \u4e0a\u6d77\u5e02, 200333, \u4e2d\u56fd",
+"summary_polyline": "{js}Da`ycVtAz@vBz@nAd@~C`A`A\\jBj@VLbHtBdBj@rBx@rBn@RDLL`@BpA@tC^x@D|AApCZrERzAP|@PTHz@Cv@GNLtASlCEz@G~@?hDSrCNnA\\XGRM?UR_ANsAFkDA_@CKHwBESAQFk@T}GDc@JALsCAg@IaBEqGE_AFqAJw@HgA",
+"average_heartrate": null,
+"average_speed": 4.102,
+"source": "strava",
+"streak": 7
 }
 ]
