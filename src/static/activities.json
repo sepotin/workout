@@ -4843,5 +4843,20 @@
 "average_speed": 6.617,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 7623227468,
+"name": "\u6668\u95f4\u9a91\u884c",
+"distance": 6666.0,
+"moving_time": "0:22:17",
+"type": "Ride",
+"start_date": "2022-08-12 00:01:14+00:00",
+"start_date_local": "2022-08-12 08:01:14",
+"location_country": "\u4e0a\u6d77\u5bf9\u5916\u7ecf\u8d38\u5927\u5b66, \u53e4\u5317\u8def, \u4e94\u4e09\u5c0f\u533a, \u4ed9\u971e\u65b0\u6751\u8857\u9053, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200336, \u4e2d\u56fd",
+"summary_polyline": "igo}Dgd|cVwBCaA@kAIm@O}@IaAAk@EoAQuCEo@FKC]EcAFa@Fc@Ko@IoAD}@Ea@HeA?KDY@oASc@?ME_@?SBSHIJELCtACzJXjR?bBEpDKdB_@~EOnASzA}AxIq@xEQdBEzA?vAHjB?XDpA@rDGrC@Le@bHKZ]h@OtAApA@f@LVFjANbALh@Jr@Nj@@NEh@FxAI|CKp@K\\Y^{@n@wBfA_At@{@v@m@x@g@z@]x@}BvHc@bBMfAOv@{@hDcApDw@bCKh@GH_@tBGdD@rBDv@C~ABpDK^UNqAOiAUy@MO?UDOLGLu@z@k@rA_@jAKr@?R^jIDVHtAH`EGhBDt@Et@B\\EzACR]fAG^MzA?r@q@hEKvIIZQTIHWHkB?",
+"average_heartrate": null,
+"average_speed": 4.986,
+"source": "strava",
+"streak": 5
 }
 ]
