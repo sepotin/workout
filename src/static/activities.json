@@ -5428,5 +5428,35 @@
 "average_speed": 5.61,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 7830984712,
+"name": "\u6668\u95f4\u9a91\u884c",
+"distance": 6516.3,
+"moving_time": "0:21:26",
+"type": "Ride",
+"start_date": "2022-09-19 00:29:50+00:00",
+"start_date_local": "2022-09-19 08:29:50",
+"location_country": "\u5927\u91d1\u66f4\u5c0f\u533a, \u4ed9\u971e\u65b0\u6751\u8857\u9053, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200336, \u4e2d\u56fd",
+"summary_polyline": "sfo}D_d|cViDCq@C]KSDaAYc@GaA?qBQI@iCOoAAo@Kq@CkAA{ALiABc@Dy@Bq@CcAFq@Cm@K[AWLKNOr@SjDNpJLzA\\dL[rJc@zESfB_@nBe@bDsAtHQtAMlBCnABfBLbAB`AJbAG`BG~@q@vC]jAy@vBRRZj@FdAC`FT|AN~B@t@j@nGBt@QhASXc@\\}BrAgAr@aBvAiAvAc@z@c@jA{@dDqAjEGXSpBo@lC[p@YjA}AbFMl@In@QrBEnBF`EC|A@pCGLSTyCa@mAKK@QFm@p@s@hAYj@]|@ETEb@?VXnFLlDFjDD^MZMNy@\\y@No@TsDz@s@L}@VsAh@",
+"average_heartrate": null,
+"average_speed": 5.067,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 7832201883,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 6607.5,
+"moving_time": "0:19:49",
+"type": "Ride",
+"start_date": "2022-09-19 09:50:58+00:00",
+"start_date_local": "2022-09-19 17:50:58",
+"location_country": "FamilyMart, \u4e34\u8679\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "mxr}DwktcVh@Mv@M^Ir@I|Aa@`@OrD_Az@WPKT_@JY@[Q}DAsDSkF@o@F_@|AyCPIf@AxCj@f@HDA^BL?h@Md@e@BIDKFq@IcGAsEB{@PiBPsAr@yB^uAJi@`@yARaBH[Tu@Tc@z@cALWbAaDr@iCp@sBTg@d@o@`Aw@nAo@fAw@r@{@x@aBRo@HYH{@DoBGaA_@gA]cES}DGcCLeDh@iDVwB\\cAHu@Je@CeAUcBU}@K{AGwCJ}BJw@X_BFQZgBb@qBRwAbAeFPwAh@eIDsBGuDAqEMwHKoJMsBCmAG_ARcCz@oEHWJQl@SfAIv@U|BeAdGoBzAWdD_@",
+"average_heartrate": null,
+"average_speed": 5.557,
+"source": "strava",
+"streak": 2
 }
 ]
