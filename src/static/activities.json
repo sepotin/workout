@@ -5563,5 +5563,20 @@
 "average_speed": 5.088,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 7854454294,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 6542.1,
+"moving_time": "0:21:13",
+"type": "Ride",
+"start_date": "2022-09-23 09:58:43+00:00",
+"start_date_local": "2022-09-23 17:58:43",
+"location_country": "Starbucks, \u91d1\u8f6e\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "uhr}De~scVFu@Nu@|@uHCeAYmAUkE@gCHy@X_GD{DXy@r@mAXYJC`@@v@NpBj@f@DdA]NOLSLc@@YCyBEaACeEByANuBLeAHg@d@sAjAcEVsAXyBPo@Na@f@o@d@g@Xk@bDwKx@qAlAoAbAq@jBcB\\m@`@eAT]Z{@Fm@?OIeCUcBQs@GYIuAKeECcDCq@TaDL}CLyAB]Vo@PqAO}AOe@Kq@GkAAkDDaAVo@`AiF@QT_Bd@wCHKl@E@E@OAIMII]@W^yBNyBl@yGH}AAa@Ke@E_@AkAJ{FIgDGw@@_BCu@IiAMaGIiADURUPC`ADrBRhCE|@LLOn@@fAPxAg@LAb@?rARdCp@FG~@UHFZLd@Hp@BlAZhBNdBK`@@LOHA",
+"average_heartrate": null,
+"average_speed": 5.139,
+"source": "strava",
+"streak": 6
 }
 ]
