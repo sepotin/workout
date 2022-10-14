@@ -5818,5 +5818,50 @@
 "average_speed": 5.337,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 7956131856,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 6651.0,
+"moving_time": "0:23:47",
+"type": "Ride",
+"start_date": "2022-10-13 10:03:36+00:00",
+"start_date_local": "2022-10-13 18:03:36",
+"location_country": "\u4e34\u8679\u8def\u91d1\u8bba\u8def, \u4e34\u8679\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "{mr}DwnscVbAEhASKQByCCg@E[@s@n@_GNu@LqAb@uCNoAHgAFw@?_ACGEcABwCIw@EQAi@Gq@AmCEWI_B?sADa@N]zAcCNM^CtBl@j@J`AD@EXGNK^YDINq@@g@GqF?{ADmCF}@PyALq@Nm@j@eBn@_CNy@JoAHg@Ps@h@kAv@cAn@gBx@gCt@{Bn@_Bb@{@z@{@tBkAl@e@r@w@Ze@\\q@Z}@NuACaBOy@Wc@OgABiAMcBCuD@i@c@_AC}@EWJI^EdD^fADjA?hDRTDt@DT?LJTJd@FBD?c@ZEHEH[H}@DcCD{@FO?w@LyGVuEHe@RoD?mBFyAHyAZmCAe@Da@NGH?xBZdBPr@Nx@B?L`@JtCHPEHGLYTiBAWQq@EyAOcA?q@Ik@JSf@e@`@OxAK`@D\\F`ADd@CT@V[Fe@A]DqCNKPe@HeAIq@?q@Be@BcBVeBCoAa@_DA[Ho@x@yCR{AGq@?e@",
+"average_heartrate": null,
+"average_speed": 4.661,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 7959561439,
+"name": "\u6668\u95f4\u9a91\u884c",
+"distance": 6742.9,
+"moving_time": "0:22:40",
+"type": "Ride",
+"start_date": "2022-10-14 00:27:49+00:00",
+"start_date_local": "2022-10-14 08:27:49",
+"location_country": "\u4e0a\u6d77\u5bf9\u5916\u7ecf\u8d38\u5927\u5b66, \u53e4\u5317\u8def, \u4e94\u4e09\u5c0f\u533a, \u4ed9\u971e\u65b0\u6751\u8857\u9053, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200336, \u4e2d\u56fd",
+"summary_polyline": "afo}Dgc|cVwBIc@Dq@AgAIoAWs@IKEq@Ba@Au@Me@QSg@KIi@\\c@Fq@GiACa@@_BKoA?[Do@@m@Cq@AgAIwACeBXYNM\\Eb@ChFBjMRdHB~B?fCGtCc@tEyAnJm@tC}@tFKhAIxAA~@BjBHtAAz@QbBBpAHx@Il@?V_@rCG`BKd@M^TpFA`APzBNbAH~BBfFIdAMVCNWh@_@^e@\\cCvA}@p@_B|Ak@z@Sh@oAlDsAfFM|@El@Al@m@vBc@jAkArEe@xAWhAUhBErBB|B?xEBvAAn@GRMJG@[?}@K_B_@y@Ia@No@z@_@r@m@~@Yx@Gr@PfCBvDPnBH`CFt@DzBCz@MtA?n@E^Qx@WrBGLDb@AFBt@Gh@CJ?VIPK\\G~@M|@MvA?\\J~DERMLSF}@?gAD",
+"average_heartrate": null,
+"average_speed": 4.958,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 7960816328,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 6641.5,
+"moving_time": "0:24:13",
+"type": "Ride",
+"start_date": "2022-10-14 09:50:15+00:00",
+"start_date_local": "2022-10-14 17:50:15",
+"location_country": "Starbucks, \u91d1\u8f6e\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "{jr}DspscVTEF[FqA@g@GaB\\}A@q@HkAJc@XyB^mEAwAVw@Fo@Ek@B_@E{A@mCU}G?oCHw@f@qBh@_ADEVEZDvBj@p@JHCJ@JDNKREd@WTQJSDS@c@IsKBqBRsBPgANq@h@{A~@_DHk@HwALk@X}@b@q@n@o@Zo@l@aBzAkFb@gAh@aATYf@c@zB_B^_@l@w@hAgBN[FYPmA?eAYuBWcAGoBIuALwCAiAa@sAAo@Hs@FQJu@VcANy@PoALiA@oBEqBUcB@g@IyCFgCJuAdBqKF_ADa@Xw@CEB[j@qDL{A\\oGJqDCqDGsB?oAKuEAmAOaF@eAI}CBa@FMJITCdEPVALIR@FCjCMtAMr@?n@Dt@Pp@D`AHbAThAN~Aj@^AjAHhCDnAAhBI",
+"average_heartrate": null,
+"average_speed": 4.571,
+"source": "strava",
+"streak": 4
 }
 ]
