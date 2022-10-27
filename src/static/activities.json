@@ -6148,5 +6148,20 @@
 "average_speed": 5.52,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 8021250196,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 7220.1,
+"moving_time": "0:22:56",
+"type": "Ride",
+"start_date": "2022-10-26 09:50:12+00:00",
+"start_date_local": "2022-10-26 17:50:12",
+"location_country": "Lefit, \u4e34\u8679\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "uur}D}ltcVdAMnAWb@EbAWz@MrBs@NMXGTSHc@@k@GwACcBK_BDs@QuEB_BJc@`@kAd@}@RYRKR?lCh@lBTP?l@e@\\e@FSBc@K{F?kEBsA\\oCZmAn@kB`@{A\\}AVoB\\qAP[`A_AjCsIx@_C\\i@j@o@bAm@x@]bA}@`@g@\\k@Xo@X}@TgADq@DyAC_@]w@UeBMwACkCMuACcAB_Ff@gCLy@`@{BRyBCgCg@aEEu@CiABgBXwBf@eCbAgE@w@P{@Fk@d@yBP]ToCVeFB{A?mCGaGWuOAaFMmBE_CB_AP{A`@iBH}@?OT[^UhAYPKp@S`Bo@jBk@JGt@Qn@[DEHQXCz@WVEfDa@tAIhBSpAUhAKPEh@a@h@q@Tk@b@qEBeASS?QDM?WC?Y|@GHCRAXL\\",
+"average_heartrate": null,
+"average_speed": 5.247,
+"source": "strava",
+"streak": 3
 }
 ]
