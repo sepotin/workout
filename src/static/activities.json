@@ -6283,5 +6283,20 @@
 "average_speed": 5.787,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 8066293879,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 5804.0,
+"moving_time": "0:19:47",
+"type": "Ride",
+"start_date": "2022-11-04 09:53:44+00:00",
+"start_date_local": "2022-11-04 17:53:44",
+"location_country": "KFC, \u901a\u534f\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "izq}D{nucV@CRDNATGTKROLUDYIu@QaEAoDHmCXsC`AoDp@uBZyAPuAVw@d@g@PKVc@Z{@Ps@XwApA}EZ{@h@iAT[bAs@t@_@z@[n@]p@aAh@cAXs@Jw@JwCEa@e@w@IsAEYCu@GsACkBQqBB}@Mo@Gu@L{AHq@ZaAN{@Da@B_BVqCQcGIy@J{CPiBFgAd@wDl@oCPwAAMHKb@oBZ{APqAHwATiCN{CFgFDcARcBLs@Mk@@u@HWNsAEe@]U]a@QaAB_CAwCIw@MyB@WFSNMRC\\?b@F|@D|@JlBElAOhB?p@C|CFhCb@FDP@ZCn@Ad@Fd@TfARh@@v@?p@GNBTAdBD",
+"average_heartrate": null,
+"average_speed": 4.89,
+"source": "strava",
+"streak": 4
 }
 ]
