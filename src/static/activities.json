@@ -7318,5 +7318,35 @@
 "average_speed": 3.841,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 8351469938,
+"name": "\u6668\u95f4\u9a91\u884c",
+"distance": 6659.9,
+"moving_time": "0:23:37",
+"type": "Ride",
+"start_date": "2023-01-06 00:29:57+00:00",
+"start_date_local": "2023-01-06 08:29:57",
+"location_country": "\u4e0a\u6d77\u5bf9\u5916\u7ecf\u8d38\u5927\u5b66, \u53e4\u5317\u8def, \u4e94\u4e09\u5c0f\u533a, \u4ed9\u971e\u65b0\u6751\u8857\u9053, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200336, \u4e2d\u56fd",
+"summary_polyline": "ego}Dad|cVyBCyADaAEo@I_ASk@FKA}B_@c@@u@OmBKk@@{@GeA@i@Ni@BOAk@Mi@Je@McBGuALy@@_@D_@VI`@@~@CjEBbEAlBBxA?rBFtCHdB@bB?pBK`DIvAQdAe@|DUtAYtAg@`DyAzHQvAGnAH~BJf@Dd@CxCDtCAv@i@tDY~CIhD@dAF|@ELGf@L`B`@~CD~@ZhCDd@EzAI`@Qd@YX{CfB}@l@{@r@WT_BrB[l@e@nAoAxDOh@CXe@jBYrBUh@[rAa@hAkA~E_@jA_@`BOnAEtCFfC@~AAn@@~BAb@ERMJWDg@EeCa@q@EeAf@ORYj@o@z@[v@Md@?dA\\jENnAC`@?p@HtBQZBVV|@?TFXCfAF`AKjA?b@IdACfAa@hAGfAD`@AL@No@lDM`ABt@ExA?~B?RGPKNMFs@BWA_@@q@H",
+"average_heartrate": null,
+"average_speed": 4.7,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 8351472774,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 8248.9,
+"moving_time": "0:35:02",
+"type": "Ride",
+"start_date": "2023-01-06 09:56:05+00:00",
+"start_date_local": "2023-01-06 17:56:05",
+"location_country": "\u4e34\u8679\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "cnr}DsmtcV~@a@xAWn@e@TITQRSLWF]By@Ai@S{EUeIDa@HS^m@x@}AFIRKn@MXANDnBjAB?TERI?K@@@Md@G\\ONILOHOFw@CcBGkAAyAD{D@s@RiCV}AhA}Dn@kCLqAZmAHSlAgBvDiLj@_Ap@w@zA_A`@]^QRQRG@EIBV[z@eBZiAVkB@k@AuAUkA?u@EiAOaAGyAOqBAkBDsC@SPsA?SNaBTwAL]R_@BK\\o@LY@k@HYI_@@ACESGKMOi@UgAMkBAuAHeBTgCjBuKHs@Ry@b@cDLmAToDPiF@yAGsJGsDOsG@gEGmBD[LQNEV?tAPjCDnCSpAGPD\\DRAj@S|@UvBd@~@Hh@Ch@BVAAB@A@K@BBGQx@?BHDRArAPx@GdBDb@Jf@Fv@Bj@DBCBD?@@C?@B?]FLFFIA@AKNAnA@r@Hp@AFBTTB\\G~@@~@InAGhCFlBKFGHEj@D^?h@CTObC@BV\\B??NNHd@DrBFz@PtARtA?VDx@A~@Ih@@XQb@GX?FB?AIF@?CC@QCEB?C@CADHEDWAQF]?_DYuEIy@GkDGK_@@e@b@mAPeBAo@?aAHqABaB",
+"average_heartrate": null,
+"average_speed": 3.924,
+"source": "strava",
+"streak": 4
 }
 ]
