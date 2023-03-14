@@ -8248,5 +8248,20 @@
 "average_speed": 4.139,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 8710744326,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 5110.1,
+"moving_time": "0:44:01",
+"type": "Run",
+"start_date": "2023-03-14 02:13:34+00:00",
+"start_date_local": "2023-03-14 06:13:34",
+"location_country": "Hennessy Park Hotel, Hotel Avenue, \u00c9b\u00e8ne Cybercity, Eb\u00e8ne Cybercity, Moka, Plaines Wilhems, Outer islands of Mauritius, 72201, Mauritius / Maurice",
+"summary_polyline": "rfpzBcn|}Iy@S?SIGGAKM??EYJKH[FE?Ev@iACKPOTe@?IJG@GT[P[J_@MOAG@EXY?IHILYROTGHI@QEQHg@j@yAPu@Tk@EAGISG@A?NEB?AAJFWAS@SFMEEBAAB@@\\IPBJLBPD@DH^Fb@RJLJBBDNBDAAAJCN_@D??@AG@K?HBKCE@FDSd@_A?HIC@DAHOv@KRIHCP_@`@IXFJ@JA@G\\EDEVC@B@G?B@?MRu@RGN?LEF@NCFGD?JJ?DBHHJB?BJC??HHRBDPLPf@VJ@F?HDNLH@PP^HH\\f@@ABBZf@CFBFLBDDF?JHLBHHFABHLBDDTJBDPDVRBJB??CD?`@NXNNNLFn@A@@IC?BL@BLJHj@LHHHB^Nv@`@P?OAQGO?[WYIEGICKISKYGEG?ICGg@SAEBK?QBKHEAEHQGU@MCMAk@O[AI_@a@UGCIIEAEMEMOOGMOKEUSKAIGSAIIIAKEc@CWGCK@A?CGCAGGAIG]ICAEMGEM?MQGAKZKFKRYt@BC?ENYJc@HK?IGIq@QA?@JUAMS[UE@i@REAIGWIWOQGII[AUHGAIFK?IHW`AWr@Qj@U^KFGNCJDPO^?HKNCJGBILEZDb@GZW^M@?PGLG@ECGHCN@FCPE\\GLAXEJG@QT?NDJRLP@HCDBPC@ECEME?@B?BD?CFEXJ@LFHIL?JBFFBHVHJ",
+"average_heartrate": null,
+"average_speed": 1.935,
+"source": "strava",
+"streak": 1
 }
 ]
