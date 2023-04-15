@@ -8488,5 +8488,20 @@
 "average_speed": 5.379,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 8889796463,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 6850.4,
+"moving_time": "0:27:28",
+"type": "Ride",
+"start_date": "2023-04-11 09:51:24+00:00",
+"start_date_local": "2023-04-11 17:51:24",
+"location_country": "Lefit, \u4e34\u8679\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "awr}DqltcVfB]p@QhB[b@O`Be@nBe@TKLe@@MRU?I@gCIgHMeEDg@FWf@_Ad@gARW^@vCn@v@J^@@Q\\S^_@FIJe@@MKeG@gCBkBt@kF|@mCx@uCNq@HwAb@qAdAsAJYpCiJ`@_A^q@bAgApC{Bt@_At@{Ap@eBHm@H{AGaAg@kA_@yADmGCw@Bq@EUD_@[q@@u@Bq@L{@`@eAJc@^wBBqALaB@k@IqAWi@EwGd@oEbB_KPi@CA?GHYBq@PsA`@iC^}DPwDD{IIuB@yAEwAKqAEoACuC@eBCaCIsAFYLQHCd@GxD?hACrBIrAAzCD`EZ~@CZCCLtAl@d@BvBCV@XBRF\\BlBFADBBJq@MHAN",
+"average_heartrate": null,
+"average_speed": 4.157,
+"source": "strava",
+"streak": 3
 }
 ]
