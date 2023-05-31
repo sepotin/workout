@@ -8863,5 +8863,35 @@
 "average_speed": 4.996,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9168164321,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 6796.0,
+"moving_time": "0:29:04",
+"type": "Ride",
+"start_date": "2023-05-30 09:52:53+00:00",
+"start_date_local": "2023-05-30 17:52:53",
+"location_country": "\u4e34\u8679\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, 200335, \u4e2d\u56fd",
+"summary_polyline": "orr}DistcVs@sDBUHQNMjBe@hDoA\\E`AB^MDQ@UIgGB]DQJ[z@}AZc@NGNCd@@f@JjBf@d@HH?@C?HGMF?CH?CXIbAm@RWDUBW?kAKsDAaFBc@ReCZ_BbA}Cp@cCNu@Bk@Lu@T}@P[z@w@JU`AwCvAkFn@yAp@y@|@u@~BsA`@_@n@oAv@eBT{@F_@Bs@KcBMw@AW@m@HSI}ASqAYuDIg@E_ACCEa@Fo@@}@Z_BJq@XkD`@qA\\kCBc@G_@]eASeCEyA@eAF}AHs@n@{Dx@qEFS@KAGFSLi@j@wDHq@ZkEL{CBeBMwLO_EGuEEeGEsAFa@LORGpE@h@SnAE|@UfADn@?TEz@Dt@HP?n@Df@PpALxAXjAj@NBb@BvACt@BzA?zAFL@?DB?K?ZM",
+"average_heartrate": null,
+"average_speed": 3.897,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 9172884981,
+"name": "\u6668\u95f4\u9a91\u884c",
+"distance": 3466.2,
+"moving_time": "0:10:12",
+"type": "Ride",
+"start_date": "2023-05-31 00:51:51+00:00",
+"start_date_local": "2023-05-31 08:51:51",
+"location_country": "Rucker Park, \u957f\u5b81\u8def, \u5317\u65b0\u6cfe\u8857\u9053, \u957f\u5b81\u533a, 200333, \u4e2d\u56fd",
+"summary_polyline": "a~p}DiwwcVq@r@kAb@iAj@yB`Bc@f@i@p@e@z@O^kCdKOv@OhAm@hBu@nBe@`C{ArFKn@Q~DAvAHhBBnC@l@C|@Y^c@@aEi@c@@s@VOLYn@_@tA[dBE~@TjF?\\GTIHi@JcAJe@FmA`@wBb@KBe@`@S\\?b@Dp@Xt@ZpABPLLDv@QZiEdA",
+"average_heartrate": null,
+"average_speed": 5.664,
+"source": "strava",
+"streak": 2
 }
 ]
