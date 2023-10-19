@@ -10063,5 +10063,35 @@
 "average_speed": 5.229,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 10064458772,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 8713.4,
+"moving_time": "0:58:14",
+"type": "Ride",
+"start_date": "2023-10-18 09:54:48+00:00",
+"start_date_local": "2023-10-18 17:54:48",
+"location_country": "\u4e34\u8679\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "}rr}DqntcV`@MlEgAr@QRKfAYt@Ip@KVKf@Gv@WtAYp@SJQZwAE_EEcKEUEEHKFFBa@PMXQLMTa@BS@wAKeDDyCJHPBEBUCHg@D{@AkAJyADwACLCADAhAuDb@gBXaANwA\\wA^s@h@m@nAkD`A{Bn@qBf@wAr@gAbBkAnB_Bj@_Ap@qARk@TuAFoAIu@SYM]IaACcAIe@M]A_COkACg@Fq@Cg@IYAYJmBRu@b@gDBeCHe@NyBDwACw@?sAEyAFw@Jw@LwBPaB`A_FHu@Cq@G[@EDUBFFWR{Al@kDXwD^cH@kBEgIFwA@gACc@SuACa@GyGIgDKW?mADwANwAl@wCC}@\\a@ZQbCi@tBu@xCo@vAe@`@S`BOxAUt@Iv@AdAKnB]j@Ep@M^Qd@a@h@y@^sCp@}BGoAd@gE^kC?_BNuBHyCH{ANqAN[F]?m@KABDAEL@LWFEP?XZDEQOUKGB?RKN@PGE?C@@AECDCED@@`@BJAL?ZJd@Eh@?XIL?j@BNADAB?Z[V?Vq@Ta@DKLGL@NDJf@n@@LEJ@FNRNHAAAB?XE^LHFPCb@BVST?POBK?CBCFAb@@TI^w@fAT?HGOODFFRJD@AA?CF@Da@HIPCTDTN`@EZ?^ELIB]f@?b@[Z?d@",
+"average_heartrate": null,
+"average_speed": 2.494,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 10064591030,
+"name": "\u6668\u95f4\u9a91\u884c",
+"distance": 6831.0,
+"moving_time": "0:22:00",
+"type": "Ride",
+"start_date": "2023-10-19 00:40:48+00:00",
+"start_date_local": "2023-10-19 08:40:48",
+"location_country": "\u4e0a\u6d77\u5bf9\u5916\u7ecf\u8d38\u5927\u5b66, \u53e4\u5317\u8def, \u4e94\u4e09\u5c0f\u533a, \u4ed9\u971e\u65b0\u6751\u8857\u9053, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200336, \u4e2d\u56fd",
+"summary_polyline": "odo}D}c|cVyA?gACiC@_@E}Ay@{@DIAcCc@WCoA@aBFg@Ia@?g@GcAEwABaBAw@FuADc@Ca@@c@BKLWCBB@Eo@B]JKLIZCn@I|GJpFBpFFnABrFGhDa@nGk@zEWhAMhAaBhLa@~DKbBCfAFhCVnBH~AG`Cu@rB[hBEnASfB@nAQfCBjAj@hALNP^BdACv@f@dIK`@Y\\s@FIFoCdBcAv@mAjAaAtAe@nAo@pBwAdF[pAQbBw@bD_@fAa@zAuAnE[bBWtEJlH?`BIl@EDUB}Ey@a@LGNe@r@]l@c@dAa@zAEt@RnE?n@CXGFGBiBJwA\\IF}C~@WTK\\Bj@XtA^nAXf@D|@EHQFwCp@",
+"average_heartrate": null,
+"average_speed": 5.175,
+"source": "strava",
+"streak": 4
 }
 ]
