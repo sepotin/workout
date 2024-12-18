@@ -14353,5 +14353,20 @@
 "average_speed": 4.882,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 13133388736,
+"name": "\u5348\u540e\u9a91\u884c",
+"distance": 6322.5,
+"moving_time": "0:25:27",
+"type": "Ride",
+"start_date": "2024-12-17 09:59:47+00:00",
+"start_date_local": "2024-12-17 17:59:47",
+"location_country": "The Red Patisserie, 511, \u798f\u6cc9\u5317\u8def, \u65b0\u6cfe\u9547, \u957f\u5b81\u533a, \u4e0a\u6d77\u5e02, 200335, \u4e2d\u56fd",
+"summary_polyline": "gxq}DknucVXg@Ls@?_CGqD?uCDmAVcCTwAh@gBxA{FTi@JIZAJC@CJsAVm@\\iAtAiF^}Ad@yAl@}@t@q@h@_@z@]TOJ[ZYNIIB\\]NW`BoDRg@RgAFm@@s@Mw@AkAQ}@Q}ACuCMuB?oAFiA?sA`@gEHgADcB?KU{AMoAToA?e@GeAKy@IqAB_@n@_FtA}HHm@HYBAIHI@?An@oAl@wGFe@P}@XaCHyADwAScDAkDBsB?aAM{GKgCCuBO}B?e@JQNGP?XB~@P`@DfATlDAlBo@lC[j@LXJXVhAf@d@QZCRQP@HJBZFTH?LJZFf@BVEfA?xATf@DjCCPB",
+"average_heartrate": null,
+"average_speed": 4.14,
+"source": "strava",
+"streak": 2
 }
 ]
